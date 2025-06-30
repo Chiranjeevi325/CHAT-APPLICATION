@@ -2,7 +2,7 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*: Pothina Chiranjeevi 
+*NAME*: Pothina Chiranjeevi
 
 *INTERN ID*: CT04DF2481
 
